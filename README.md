@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Felipe Lopes Tanaka from Brasil<br><br>- 🔭 I'm not currently working but I'm looking for a job in data science | Atualmente não estou trabalhando, mas estou procurando um emprego na area de ciência de dados.<br>- 📚 I'm currently learning Machine Learning | Atualmente estou aprendendo Machine Learning</p>
+<p align="left">- 🔭 I'm not currently working but I'm looking for a job in data science | Atualmente não estou trabalhando, mas estou procurando um emprego na area de ciência de dados.<br>- 📚 I'm currently learning Machine Learning | Atualmente estou aprendendo Machine Learning</p>
 
 ###
 
