@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm not currently working but I'm looking for a job in data science | Atualmente não estou trabalhando, mas estou procurando um emprego na area de ciência de dados.<br>- 📚 I'm currently learning Machine Learning | Atualmente estou aprendendo Machine Learning</p>
+<p align="left">- 🔭 Atualmente não estou trabalhando, mas estou procurando um emprego na area de ciência de dados | I'm not currently working but I'm looking for a job in data science.<br>- 📚 Atualmente estou aprendendo Machine Learning | I'm currently learning Machine Learning</p>
 
 ###
 
