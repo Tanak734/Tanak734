@@ -121,7 +121,7 @@
 
 <details>
   
-<summary>Ferramentas de Analise e Machine Learning/summary>
+<summary>Ferramentas de Analise e Machine Learning </summary>
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
