@@ -1,7 +1,5 @@
 <h1 align="center">👋Hi, Im Felipe Tanaka</h1>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/felipetanaka7264/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
@@ -15,67 +13,44 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tanak734.Tanak734&"  />
-</div>
 
-###
+<br>
+<br>
 
-<img src="https://raw.githubusercontent.com/Tanak734/Tanak734/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="center">---</p>
-
-###
 
 <h2 align="left">👨‍💻 -  Sobre mim</h2>
 
-###
-
 <p align="left">🌱 Ola, Meu nome é Felipe Lopes Tanaka, curso Engenharia da computação e busco minha primeira oportunidade de emprego a áreas relacionadas a tecnologia, focando em engenharia de software.</p>
 
-###
+<br>
 
-<p align="left"></p>
 
-###
 
 <h3 align="left">📖 Atualmente estou aprendendo...</h3>
 
-###
-
 <h4 align="left">- Java<br>- AWS<br>- Docker<br>- Temas de cybersegurança</h4>
 
-###
+<br>
 
-<p align="left"></p>
-
-###
 
 <h3 align="left">🔭 Objetivos</h3>
 
-###
-
 <p align="left">Meu objetivo é arrumar minha primeira oportunidade de emprego  para utilizar e aprimorar meus conhecimentos na carreira de tecnologia, ajudando os outros, resolvendo problemas e desenvolvendo junto com uma equipe.</p>
 
-###
+<br>
+<br>
 
-<p align="center">---</p>
+---
 
-###
+<br>
+
 
 <h2 align="left">🛠 Tecnologias que tenho conhecimento</h2>
 
-###
-
 <h3 align="left">Linguagens de programacao</h3>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -89,17 +64,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<p align="left"></p>
-
-###
+<br>
 
 <h3 align="left">Tecnologias de ecossistema</h3>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -111,11 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+<br>
 
-<p align="left"></p>
-
-###
 
 <h3 align="left">Outras</h3>
 
@@ -123,7 +89,7 @@
   
 <summary>Ferramentas de Analise e Machine Learning </summary>
 
-  <div align="center">
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img width="20" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -140,9 +106,3 @@
   </div>
 
 </details>
-
-###
-
-<p align="center">---</p>
-
-###
