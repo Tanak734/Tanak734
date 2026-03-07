@@ -1,110 +1,20 @@
-<h1 align="center">👋Hi, Im Felipe Tanaka</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Felipe%20Lopes%20Tanaka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+## 📌 About Me
+
+<div>
+  
+  I am Felipe, a junior software developer currently studying Computer Engineering at USF (Universidade São Francisco). I enjoy learning how things work under the hood and about areas of computing that are closely related to coding, such as software development, system design, and projects that involves solving problems through code.
+
+  At now, im focused on learning back-end development, exploring concepts like APIs, databases, project patterns, server configuration, project plaining, and good architecture practices to build reliable and scalable applications. This has helped me strengthen my understanding of how systems communicate, how data flows through an application, and how to design good code.
+
+  In the future, I to work as a software engineer, contributing to projects where I can apply what I learn in a real-world environment, collaborate with other developers, and continue improving both technically and professionally. I value continuous learning and teamwork, and I always looking for opportunities to grow, take on new challenges, and become a better engineer with each project I work on.
+</div>
+
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/felipetanaka7264/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/felipe.tanaka8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
-  </a>
-  <a href="mailto:felipelopestanaka8@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31430258/tanaka734" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="20" alt="stackoverflow logo"  />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
-
-<br>
-<br>
-
-
-<h2 align="left">👨‍💻 -  Sobre mim</h2>
-
-<p align="left">🌱 Ola, Meu nome é Felipe Lopes Tanaka, curso Engenharia da computação e busco minha primeira oportunidade de emprego a áreas relacionadas a tecnologia, focando em engenharia de software.</p>
-
-<br>
-
-
-
-<h3 align="left">📖 Atualmente estou aprendendo...</h3>
-
-<h4 align="left">- Java<br>- AWS<br>- Docker<br>- Temas de cybersegurança</h4>
-
-<br>
-
-
-<h3 align="left">🔭 Objetivos</h3>
-
-<p align="left">Meu objetivo é arrumar minha primeira oportunidade de emprego  para utilizar e aprimorar meus conhecimentos na carreira de tecnologia, ajudando os outros, resolvendo problemas e desenvolvendo junto com uma equipe.</p>
-
-<br>
-<br>
-
----
-
-<br>
-
-
-<h2 align="left">🛠 Tecnologias que tenho conhecimento</h2>
-
-<h3 align="left">Linguagens de programacao</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-<br>
-
-<h3 align="left">Tecnologias de ecossistema</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-<br>
-
-
-<h3 align="left">Outras</h3>
-
-<details>
-  
-<summary>Ferramentas de Analise e Machine Learning </summary>
-<br>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  </div>
-
-</details>
