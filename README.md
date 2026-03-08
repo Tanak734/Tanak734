@@ -111,32 +111,32 @@ In the future, I want to work as a software engineer, contributing to projects w
 
 ### Estagiário de TI – TBG (Transportadora Brasileira Gasoduto Bolívia-Brasil S.A.)
 📍 Campinas, SP · ⏱️ November 2025 – Present  
-- First professional experience working in a team, acting in the Integrity Coordination area and applying technology, data analysis, and software development to support internal processes. [file:26]  
-- Performed analysis of construction work points using Excel spreadsheets, making it easier to read and interpret critical data. [file:26]  
-- Designed a new spreadsheet structure to organize large volumes of information while keeping formatting consistent, even as new data was added. [file:26]  
-- Developed a Python program capable of merging multiple PDF files and automatically generating the page count for each document. [file:26]  
+- First professional experience working in a team, acting in the Integrity Coordination area and applying technology, data analysis, and software development to support internal processes.
+- Performed analysis of construction work points using Excel spreadsheets, making it easier to read and interpret critical data.
+- Designed a new spreadsheet structure to organize large volumes of information while keeping formatting consistent, even as new data was added.
+- Developed a Python program capable of merging multiple PDF files and automatically generating the page count for each document.
 
 <br>
 
 
 ### Scientific Initiation – Universidade São Francisco (USF)
 📍 Campinas, SP · ⏱️ August 2025 – Present  
-- Developing a neural network to identify nematode classes, helping farmers with diagnosis and decision-making related to plant management. [file:26]  
-- Applying data science concepts for data exploration, visualization, and analysis of machine learning metrics, focusing on improving model performance and accuracy. [file:26]  
-- Using PyTorch in Python to implement a recognition algorithm based on the ResNet-101 architecture. [file:26]  
-- Reviewing and analyzing code to identify optimization opportunities in different components of the model, aiming for more precise and robust results. [file:26]  
+- Developing a neural network to identify nematode classes, helping farmers with diagnosis and decision-making related to plant management.
+- Applying data science concepts for data exploration, visualization, and analysis of machine learning metrics, focusing on improving model performance and accuracy.
+- Using PyTorch in Python to implement a recognition algorithm based on the ResNet-101 architecture.
+- Reviewing and analyzing code to identify optimization opportunities in different components of the model, aiming for more precise and robust results.
 
 <br>
 
 
 ### Full Stack Developer – Adriana Alves Interiores
 📍 Campinas, SP · ⏱️ July 2025 – Present  
-- Working as a front-end and back-end developer on a portfolio website focused on architecture for a client. [file:26]  
-- Analyzed business rules and client requirements to define how the website should be structured and presented. [file:26]  
-- Developed the application in PHP with Laravel, implementing features such as a posting system and SMTP configuration for direct contact through the website. [file:26]  
-- Used Trello for task organization and project management, with a focus on planning, deliveries, and continuous review. [file:26]  
-- Configured the server using a Hostinger hosting service, deepening knowledge in SSH, Linux, deployment, and infrastructure concepts. [file:26]  
-- Improved skills in back-end development, code standards, project organization, database modeling, and server/hosting configuration through this project. [file:26]  
+- Working as a front-end and back-end developer on a portfolio website focused on architecture for a client.
+- Analyzed business rules and client requirements to define how the website should be structured and presented.
+- Developed the application in PHP with Laravel, implementing features such as a posting system and SMTP configuration for direct contact through the website.
+- Used Trello for task organization and project management, with a focus on planning, deliveries, and continuous review.
+- Configured the server using a Hostinger hosting service, deepening knowledge in SSH, Linux, deployment, and infrastructure concepts.
+- Improved skills in back-end development, code standards, project organization, database modeling, and server/hosting configuration through this project.
 
 <br>
 <br>
